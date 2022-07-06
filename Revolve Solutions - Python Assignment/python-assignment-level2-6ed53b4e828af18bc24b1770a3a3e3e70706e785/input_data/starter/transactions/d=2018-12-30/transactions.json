@@ -1,0 +1,14 @@
+{"customer_id": "C4", "basket": [{"product_id": "P56", "price": 26}], "date_of_purchase": "2018-12-30 13:42:00"}
+{"customer_id": "C13", "basket": [{"product_id": "P58", "price": 407}, {"product_id": "P56", "price": 1040}], "date_of_purchase": "2018-12-30 13:56:00"}
+{"customer_id": "C15", "basket": [{"product_id": "P40", "price": 1784}, {"product_id": "P39", "price": 706}], "date_of_purchase": "2018-12-30 21:15:00"}
+{"customer_id": "C27", "basket": [{"product_id": "P58", "price": 1937}, {"product_id": "P59", "price": 698}, {"product_id": "P55", "price": 1551}], "date_of_purchase": "2018-12-30 14:01:00"}
+{"customer_id": "C28", "basket": [{"product_id": "P55", "price": 97}, {"product_id": "P53", "price": 1182}], "date_of_purchase": "2018-12-30 19:06:00"}
+{"customer_id": "C32", "basket": [{"product_id": "P26", "price": 1429}, {"product_id": "P26", "price": 1687}, {"product_id": "P27", "price": 1967}], "date_of_purchase": "2018-12-30 13:19:00"}
+{"customer_id": "C65", "basket": [{"product_id": "P62", "price": 1288}], "date_of_purchase": "2018-12-30 09:59:00"}
+{"customer_id": "C74", "basket": [{"product_id": "P40", "price": 68}], "date_of_purchase": "2018-12-30 06:39:00"}
+{"customer_id": "C77", "basket": [{"product_id": "P22", "price": 1169}, {"product_id": "P28", "price": 918}, {"product_id": "P24", "price": 931}], "date_of_purchase": "2018-12-30 23:30:00"}
+{"customer_id": "C85", "basket": [{"product_id": "P36", "price": 1717}], "date_of_purchase": "2018-12-30 09:20:00"}
+{"customer_id": "C103", "basket": [{"product_id": "P04", "price": 350}, {"product_id": "P08", "price": 1898}], "date_of_purchase": "2018-12-30 06:04:00"}
+{"customer_id": "C119", "basket": [{"product_id": "P46", "price": 442}], "date_of_purchase": "2018-12-30 08:21:00"}
+{"customer_id": "C131", "basket": [{"product_id": "P35", "price": 357}], "date_of_purchase": "2018-12-30 05:02:00"}
+{"customer_id": "C134", "basket": [{"product_id": "P09", "price": 1353}, {"product_id": "P02", "price": 1182}], "date_of_purchase": "2018-12-30 21:21:00"}
